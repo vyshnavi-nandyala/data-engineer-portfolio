@@ -9,7 +9,7 @@ export default function Document() {
         <meta name="keywords" content="Data Engineer, Snowflake, dbt, AWS, Python, SQL, Airflow, Pipeline, ETL, Data Lakehouse" />
         <meta name="author" content="Vyshnavi Nandyala" />
         <meta property="og:title" content="Vyshnavi Nandyala — Senior Data Engineer" />
-        <meta property="og:description" content="Building scalable data pipelines that power insights. 8+ years in production data systems." />
+        <meta property="og:description" content="Building scalable data pipelines that power insights. 6+ years in production data systems." />
         <meta property="og:type" content="website" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Vyshnavi Nandyala — Senior Data Engineer" />

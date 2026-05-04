@@ -180,7 +180,7 @@ export default function Hero() {
           transition={{ duration: 0.6, delay: 0.35 }}
           className="text-slate-400 text-lg mb-10 font-mono"
         >
-          8+ years in production data systems
+          6+ years in production data systems
         </motion.p>
 
         {/* Tech stack inline */}
