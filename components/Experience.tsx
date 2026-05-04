@@ -38,7 +38,7 @@ export default function Experience() {
             </span>
           </h2>
           <p className="section-subheading">
-            8 years building production data systems across enterprise environments.
+            6 years building production data systems across enterprise environments.
           </p>
         </motion.div>
 

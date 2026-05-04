@@ -2,7 +2,7 @@ import { motion } from 'framer-motion'
 import { useInView } from 'react-intersection-observer'
 
 const stats = [
-  { value: '8+', label: 'Years Experience', sub: 'production systems' },
+  { value: '6+', label: 'Years Experience', sub: 'production systems' },
   { value: '50M+', label: 'Records / Day', sub: 'processed at peak' },
   { value: '200+', label: 'Data Pipelines', sub: 'built & maintained' },
   { value: '$2M+', label: 'Cost Savings', sub: 'delivered to clients' },
@@ -36,7 +36,7 @@ export default function About() {
             <span className="gradient-text">business intelligence</span>
           </h2>
           <p className="section-subheading">
-            Senior Data Engineer with 8+ years building production data systems that scale.
+            Senior Data Engineer with 6+ years building production data systems that scale.
           </p>
         </motion.div>
 
